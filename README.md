@@ -11,4 +11,6 @@ echo "natural-language-processing-in-python" > .python-version
 pip install pipenv
 pipenv install jupyter
 pipenv install nltk
+pipenv install scikit-learn numpy
+pipenv install matplotlib
 ```
