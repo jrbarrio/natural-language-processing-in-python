@@ -7,11 +7,13 @@ name = "pypi"
 jupyter = "*"
 nltk = "*"
 scikit-learn = "*"
+numpy = "*"
 matplotlib = "*"
 pandas = "*"
 seaborn = "*"
+gensim = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.14"
+python_version = "3.13"
