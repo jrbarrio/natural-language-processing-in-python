@@ -8,6 +8,8 @@ jupyter = "*"
 nltk = "*"
 scikit-learn = "*"
 matplotlib = "*"
+pandas = "*"
+seaborn = "*"
 
 [dev-packages]
 

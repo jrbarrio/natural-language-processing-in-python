@@ -13,4 +13,6 @@ pipenv install jupyter
 pipenv install nltk
 pipenv install scikit-learn numpy
 pipenv install matplotlib
+pipenv install pandas
+pipenv install seaborn
 ```
