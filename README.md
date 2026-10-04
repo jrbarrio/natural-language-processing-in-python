@@ -16,5 +16,6 @@ pipenv install matplotlib
 pipenv install pandas
 pipenv install seaborn
 pipenv install gensim
-pipenv install torch transformers<5>
+pipenv install torch "transformers<5"
+pipenv install sentencepiece
 ```
