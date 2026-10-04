@@ -12,7 +12,7 @@ matplotlib = "*"
 pandas = "*"
 seaborn = "*"
 gensim = "*"
-transformers = "*"
+transformers = "<5"
 torch = "*"
 
 [dev-packages]
