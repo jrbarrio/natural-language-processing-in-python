@@ -15,6 +15,8 @@ gensim = "*"
 torch = "*"
 sentencepiece = "*"
 transformers = "<5"
+textblob = "*"
+wordcloud = "*"
 
 [dev-packages]
 

@@ -18,4 +18,6 @@ pipenv install seaborn
 pipenv install gensim
 pipenv install torch "transformers<5"
 pipenv install sentencepiece
+pipenv install textblob
+pipenv install wordcloud
 ```
