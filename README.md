@@ -20,4 +20,5 @@ pipenv install torch "transformers<5"
 pipenv install sentencepiece
 pipenv install textblob
 pipenv install wordcloud
+pipenv install langdetect
 ```

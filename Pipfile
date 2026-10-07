@@ -17,6 +17,7 @@ sentencepiece = "*"
 transformers = "<5"
 textblob = "*"
 wordcloud = "*"
+langdetect = "*"
 
 [dev-packages]
 
