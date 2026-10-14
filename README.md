@@ -21,4 +21,6 @@ pipenv install sentencepiece
 pipenv install textblob
 pipenv install wordcloud
 pipenv install langdetect
+pipenv install spacy
+python3 -m spacy download en_core_web_sm
 ```

@@ -18,6 +18,7 @@ transformers = "<5"
 textblob = "*"
 wordcloud = "*"
 langdetect = "*"
+spacy = "*"
 
 [dev-packages]
 
