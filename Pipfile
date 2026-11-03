@@ -19,6 +19,7 @@ textblob = "*"
 wordcloud = "*"
 langdetect = "*"
 spacy = "*"
+speechrecognition = "*"
 
 [dev-packages]
 
