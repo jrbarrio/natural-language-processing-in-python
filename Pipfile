@@ -20,6 +20,7 @@ wordcloud = "*"
 langdetect = "*"
 spacy = "*"
 speechrecognition = "*"
+pydub = "*"
 
 [dev-packages]
 
