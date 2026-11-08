@@ -28,4 +28,5 @@ pipenv install wave
 pipenv install SpeechRecognition
 pipenv install pydub
 pipenv install simpleaudio
+pipenv install nltk
 ```
