@@ -20,6 +20,8 @@ langdetect = "*"
 spacy = "*"
 speechrecognition = "*"
 pydub = "*"
+py-readability-metrics = "*"
+nltk = "*"
 
 [dev-packages]
 
