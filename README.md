@@ -30,4 +30,5 @@ pipenv install pydub
 pipenv install simpleaudio
 pipenv install nltk
 pipenv install py-readability-metrics
+python3 -m spacy download en_core_web_lg
 ```
